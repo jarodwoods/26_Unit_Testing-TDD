@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeklyChallenges_Set_01", "WeeklyChallenges_Set_01\WeeklyChallenges_Set_01.csproj", "{5902BC0E-825E-4CCA-B1ED-3D10B97A1E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeklyChallenges_Set_01-Tests", "WeeklyChallenges_Set_01-Tests\WeeklyChallenges_Set_01-Tests.csproj", "{E86BAB8B-6806-4531-BF2F-46041EACB31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5902BC0E-825E-4CCA-B1ED-3D10B97A1E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5902BC0E-825E-4CCA-B1ED-3D10B97A1E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5902BC0E-825E-4CCA-B1ED-3D10B97A1E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5902BC0E-825E-4CCA-B1ED-3D10B97A1E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E86BAB8B-6806-4531-BF2F-46041EACB31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86BAB8B-6806-4531-BF2F-46041EACB31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86BAB8B-6806-4531-BF2F-46041EACB31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86BAB8B-6806-4531-BF2F-46041EACB31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E531B6D-ADBA-4D66-B7B8-B1764E373831}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\bin\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.exe
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\bin\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.deps.json
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\bin\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.runtimeconfig.json
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\bin\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.runtimeconfig.dev.json
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\bin\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.dll
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\bin\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.pdb
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\obj\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.csprojAssemblyReference.cache
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\obj\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\obj\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.AssemblyInfo.cs
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\obj\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\obj\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.dll
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\obj\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.pdb
+C:\Users\johnd\source\repos\TestDrivenDevelopment_Demo\TestDrivenDevelopment_Demo\obj\Debug\netcoreapp3.1\TestDrivenDevelopment_Demo.genruntimeconfig.cache
